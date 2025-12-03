@@ -1,4 +1,4 @@
-#Bash Utilities 
+**Bash Utilities** 
 
 (Original Date: 06/2023)
 

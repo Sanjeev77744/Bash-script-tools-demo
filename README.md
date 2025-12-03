@@ -1,4 +1,4 @@
-Bash Utilities
+Bash Utilities (Original Date: 06/2023)
 
 This repository contains three intermediate bash scripts created to automate day-to-day operations:
 

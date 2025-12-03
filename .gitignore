@@ -1,0 +1,24 @@
+# System & Editor Clutter
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Script Outputs (Logs & Data) 
+# Ignore all log files so that local test logs don't get pushed
+*.log
+*.txt
+
+# Backup Files 
+# To ignore the archives created by the backup script
+*.tar.gz
+*.zip
+*.bak
+
+# To ignore the specific backup directory
+backups/
+tmp/
+
+# Security
+# For adding API keys or credentials later
+.env
+config.sh
